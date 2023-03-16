@@ -7,7 +7,7 @@ make sure you have node.js installed on your pc and download the exe at https://
 
 # credits
 
-by es, pepeyt, hmm, xstorny and holger
+by es, pepe, hmm, xstorny and holger
 
 #  details
 
