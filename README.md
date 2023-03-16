@@ -1,14 +1,14 @@
-# vapor-ghost
+# vapor ghost client
 a mcbe external ghost hack client made in html
 
-#installation
+# installation
 
 make sure you have node.js installed on your pc and download the exe at https://mediafire.com/filenamenotmadeyet
 
-#credits
+# credits
 
 by es, pepeyt, hmm, xstorny and holger
 
-#details
+#  details
 
 it is open src but please ask for permission before forking this for public use
