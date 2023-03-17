@@ -1,5 +1,5 @@
-# vapor ghost client
-a mcbe external ghost hack client made in html
+# vapor client
+a mcbe external client made in html
 
 https://esxml.github.io/vapor-ghost-client/
 
